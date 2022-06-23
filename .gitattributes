@@ -4,5 +4,5 @@
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
 *.aspnet linguist-detectable=false
-# Direct Swift
+# Direct csharp
 *.* linguist-language=csharp
